@@ -25,3 +25,4 @@ Accommodation must be part of the budget.
 - [ ] Genderless bathrooms
 - [ ] No subtle -isms, no microaggressions. To achieve 100% at a conference is impossible. But strive to have the most inclusive language possible, and point out your own mistakes if you see yourself doing them.
 - [ ] Ensure diversity in representation with your speakers.
+- [ ] Give away free/discounted tickets to minority attendees.
